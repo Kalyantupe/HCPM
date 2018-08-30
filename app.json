@@ -1,0 +1,23 @@
+{
+  "id": "605e9b6a-5311-4cd9-8927-2560340c8296",
+  "name": "HCPM",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 70140960,
+    "to": 70140999
+  }
+}
